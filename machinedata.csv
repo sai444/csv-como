@@ -1,0 +1,89 @@
+254,,HIGH,RANG,Threshold Limit,0.512710869,0.01-15,1,40-Bar Filter Status,Bar,INT,5 SGB 40 B F DP,,2856,Health,0.1-3,03-Apr,>4,RANGE,RANGE,>,FALSE,Green
+302,,High,Range,Threshold Limit,0.229588568,4,6,02_HE3_SPINDLE DE,G E,Decimal,6 IR RHS S DE GE,,2253,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+292,,High,Range,Threshold Limit,0.236485258,4,5,01_HE3_NDE,GE,Decimal,6 SPD RHS P U DE GE,,2349,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+244,,High,RANGE,Threshold Limit,0.6047707,0.1-30,3,02_HE3_SPINDLE DE,gE PtP,Decimal,5 OR RHS S DE GE,,2237,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+252,,High,RANGE,Threshold Limit,0.9715644,0.1-30,3,01_HE3_Motor DE,gE PtP,Decimal,5 OR RHS G M DE GE ,,2190,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+237,,High,RANGE,Threshold Limit,1.410117,0.1-30,2,01_HE3_Motor DE,gE PtP,Decimal,5 IR LHS G M DE GE ,,2232,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+226,,High,RANGE,Threshold Limit,0.871588647,0.1-30,1,SGB_WH Spindle,mm/s,Decimal,5 SGB WH P DE RMS,,697,Vibration,0.1-0.5,0.5-1,>1,RANGE,RANGE,>,TRUE,Red
+200,,,RANGE,Threshold Limit,0.036202624,,1,DRESSER ARM 3 ENV3,gE PtP,Decimal,5 SGB D A DE GE,39,743,Vibration,0.01-0.2,0.2-0.3,>0.3,RANGE,RANGE,>,TRUE,Red
+303,,High,Range,Threshold Limit,0.377900928,4,7,CL-660 Grinding MOTOR DE,mm/s,Decimal,6 CL G M DE RMS,,3831,Vibration,0.1-2,02-Mar,>3,RANGE,RANGE,>,FALSE,Green
+242,,High,RANGE,Threshold Limit,0.363977134,0.1-30,3,SPC-OR Grinding Spindle -LHS,mm/s,Decimal,5 OR LHS S DE RMS,,1871,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+273,,High,Range,Threshold Limit,0,4,4,70 BAR INLET PRESSURE ,Bar,Decimal,6 SGB 70 B IN P,,3543,Health,60-80,80-90,<60,RANGE,RANGE,<,FALSE,Green
+288,,High,Range,Threshold Limit,0.860908866,4,5,02_HE3_DE,G E,Decimal,6 SPD RHS G M DE GE,,2354,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+218,,High,RANGE,Threshold Limit,68.6135254,0.1-30,1,W/H Spindle Pressure,Bar,Decimal,5 SGB WH S IN P,,2859,Health,55-80,80-90,<55,RANGE,RANGE,<,FALSE,Green
+274,,High,Range,Threshold Limit,0,4,4,40 BAR INLET PRESSURE,Bar,Decimal,6 SGB 40 B IN P,,3544,Health,40-50,50-60,<40,RANGE,RANGE,<,FALSE,Green
+284,,High,Range,Threshold Limit,0.22969842,4,5,Grinding motor NDE-LHS,mm/s,Decimal,6 SPD LHS G M NDE RMS,,1892,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+290,,High,Range,Threshold Limit,0.236485258,4,5,01_HE3_NDE,mm/s,Decimal,6 SPD RHS G M NDE GE,,2349,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+240,,High,RANGE,Threshold Limit,2.71475554,0.1-30,3,SPC-OR Grinding Motor -LHS,mm/s,Decimal,5 OR LHS G M DE RMS ,,1870,Vibration,0.1-1.5,1.5-2.5,>2.5,RANGE,RANGE,>,TRUE,Red
+283,,High,Range,Threshold Limit,0.3134481,4,5,02_HE3_DE,mm/s,Decimal,6 SPD LHS G M DE GE,,2335,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+227,,High,RANGE,Threshold Limit,0.141655162,0.01-5,1,SGB_Diamond Dresser,mm/s,Decimal,5 SGB D A DE RMS,,694,Vibration,0.1-0.4,0.4-0.7,>0.7,RANGE,RANGE,>,TRUE,Red
+223,,High,RANGE,Threshold Limit,1.32571208,0.1-30,1,SGB_GR Motor NDE,mm/s,Decimal,5 SGB G M NDE RMS,,692,Vibration,0.1-2.5,2.6-4,>4,RANGE,RANGE,>,TRUE,Red
+191,,,RANGE,Threshold Limit,0.2923649,,1,04_HE3_DE,gE PtP,Decimal,5 SGB WH M DE GE,30,730,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+311,,High,Range,Threshold Limit,0.225738719,4,7,CL-660 Pulley unit,mm/s,Decimal,6 CL P U RMS,,3829,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+265,,High,Range,Threshold Limit,1.15500271,4,4,SGB_GR_Motor NDE, mm/s,Decimal,6 SGB G M NDE RMS,,1309,Vibration,0.1-2.5,2.6-4,>4,RANGE,RANGE,>,TRUE,Red
+207,,,RANGE,Threshold Limit,1.01686227,,1,02_HE3_DE,gE PtP,Decimal,5 SGB G M DE GE,20,719,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+194,,,RANGE,Threshold Limit,0.8841691,,1,05_HE3_WH PB,gE PtP,Decimal,5 SGB WH P DE GE,33,738,Vibration,0.01-0.5,0.5-1,>1,RANGE,RANGE,>,TRUE,Red
+250,,High,RANGE,Threshold Limit,0.9715644,0.1-30,2,01_HE3_Motor DE,mm/s,Decimal,5 IR RHS G M DE GE,,2190,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+275,,High,Range,Threshold Limit,50,4,4,GR.SPINDLE PRESSURE,Bar,Decimal,6 SGB G S IN P,,3542,Health,55-80,80-90,<55,RANGE,RANGE,<,FALSE,Green
+296,,High,Range,Threshold Limit,1.15064669,4,6,01_HE3_Motor DE,G E,Decimal,6 IR LHS G M DE GE,,2262,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+294,,High,Range,Threshold Limit,0.105582893,4,5,07_HE3_DE,G E,Decimal,6 SPD PP M DE GE,,2364,Vibration,0.01-1,01-Feb,>2,RANGE,RANGE,>,FALSE,Green
+310,,High,Range,Threshold Limit,0.364234954,4,7,CL-660 Grinding spindle NDE HE3_DE,G E,Decimal,6 CL G S NDE GE,,3834,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+186,,,RANGE,Threshold Limit,0.259674281,,1,03_HE3_NDE,gE PtP,Decimal,5 SGB WH M NDE GE,25,729,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+276,,High,Range,Threshold Limit,50,4,4,W/H SPINDLE PRESSURE,Bar,Decimal,6 SGB WH S IN P,,3541,Health,55-80,80-90,<55,RANGE,RANGE,<,FALSE,Green
+306,,High,Range,Threshold Limit,0.6189179,4,7,CL-660 Reg motor DE HE3_DE,GE,Decimal,6 CL R M DE GE,,3839,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+314,,High,Range,Threshold Limit,0.025006255,4,4,06_HE3_DRESSER ARM,G E,Decimal,6 SGB D A DE GE,,1656,Vibration,0.01-0.02,0.2-0.3,>0.3,RANGE,RANGE,>,FALSE,Green
+202,,,RANGE,Threshold Limit,0.503702164,,1,01_HE3_NDE,gE PtP,Decimal,5 SGB G M NDE GE,15,714,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+246,,High,RANGE,Threshold Limit,1.410117,0.1-30,3,01_HE3_Motor DE,mm/s,Decimal,5 OR LHS G M DE GE,,2232,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+238,,High,RANGE,Threshold Limit,0.6047707,0.1-30,2,02_HE3_SPINDLE DE,gE PtP,Decimal,5 IR LHS S DE GE,,2237,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+249,,High,RANGE,Threshold Limit,0.208874121,0.1-30,2,02_HE3_SPINDLE DE,gE PtP,Decimal,5 IR RHS S DE GE,,2209,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+280,,High,Range,Threshold Limit,0,4,4,ACC-TEMP-A0-CH1,Deg C,Decimal,6 SGB G S A T,,3537,Health,May-35,35-40,>40,RANGE,RANGE,>,FALSE,Green
+309,,High,Range,Threshold Limit,0.214948818,4,7,CL-660 Grinding spindle NDE,mm/s,Decimal,6 CL G S NDE RMS,,3827,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+279,,High,Range,Threshold Limit,0,4,4,ACC-PRESSURE-A0-CH2,Bar,Decimal,6 SGB G S A P,,3538,Health,0-70,70-75,<15,RANGE,RANGE,<,FALSE,Green
+300,,High,Range,Threshold Limit,0.6064771,4,6,01_HE3_Motor DE,G E,Decimal,6 IR RHS G M DE GE,,2248,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+272,,High,Range,Threshold Limit,1.12648761,4,4,SGB_Power pack_Motor DE, mm/s,Decimal,6 SGB PP M DE RMS,,1344,Vibration,0.1-3,03-Apr,>4,RANGE,RANGE,>,TRUE,Red
+315,,High,Range,Threshold Limit,0.782376647,4,4,07_HE3_DE,G E,Decimal,6 SGB PP M DE GE,,1659,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+234,,High,RANGE,Threshold Limit,1.45452118,0.1-30,2,SPC-IR Grinding Motor-RHS,mm/s,Decimal,5 IR RHS G M DE RMS,,1864,Vibration,0.1-1.5,1.5-2.5,>2.5,RANGE,RANGE,>,TRUE,Red
+229,,High,RANGE,Threshold Limit,2.29755783,0.01-30,1,SGB_GR Motor DE,mm/s rms,Decimal,5 SGB G M DE RMS,,693,Vibration,0.1-2.5,2.6-4,>4,RANGE,RANGE,>,TRUE,Red
+239,,High,RANGE,Threshold Limit,4.70627928,0.1-30,3,SPC-OR Grinding Motor-RHS,mm/s,Decimal,5 OR RHS G M DE RMS,,1868,Vibration,0.1-1.5,1.5-2.5,>2.5,RANGE,RANGE,>,TRUE,Red
+281,,High,Range,Threshold Limit,0,4,4,GR.COOLANT FLOW,Bar,Decimal,6 SGB G C F,,3545,Health,60-140,50-60,<50,RANGE,RANGE,<,FALSE,Green
+221,,High,RANGE,Threshold Limit,62.44879,0.1-30,1,70-Bar Inlet Pressure,Bar,Decimal,5 SGB 70 B IN P,,2857,Health,60-80,80-90,<60,RANGE,RANGE,<,FALSE,Green
+269,,High,Range,Threshold Limit,0.909158647,4,4,SGB_WH Motor NDE, mm/s,Decimal,6 SGB WH M NDE RMS,,1311,Vibration,0.1-1,1-1.8,>1.8,RANGE,RANGE,>,TRUE,Red
+236,,High,RANGE,Threshold Limit,0.409162521,0.1-30,2,SPC-IR Grinding Spindler-LHS,mm/s,Decimal,5 IR LHS S DE RMS ,,1867,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+251,,High,RANGE,Threshold Limit,0.375026673,0.1-30,3,02_HE3_SPINDLE DE,gE PtP,Decimal,5 OR LHS S DE GE ,,2195,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+270,,High,Range,Threshold Limit,0.109295,4,4,03_HE3_DE, mm/s,Decimal,6 SGB WH M NDE GE,,1639,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+307,,High,Range,Threshold Limit,0.3772166,4,7,CL-660 Grinding spindle DE,mm/s,Decimal,6 CL G S DE RMS,,3828,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+277,,High,Range,Threshold Limit,0,4,4,SP29 70BAR DELTA PRESSURE,Bar,Decimal,6 SGB 70 B F DP,,3539,Health,0.1-3,03-Apr,>4,RANGE,RANGE,>,FALSE,Green
+297,,High,Range,Threshold Limit,0.3279548,4,6,LHS Grinding Spindle,MM/S,Decimal,6 IR LHS S DE RMS,,1883,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+278,,High,Range,Threshold Limit,10.2542171,4,4,SP30 40BAR DELTA PRESSURE,Bar,Decimal,6 SGB 40 B F DP,,3540,Health,0.1-3,03-Apr,>4,RANGE,RANGE,>,TRUE,Red
+266,,High,Range,Threshold Limit,0.6139178,4,4,01_HE3_NDE, mm/s,Decimal,6 SGB G M NDE GE,,1626,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+304,,High,Range,Threshold Limit,1.93897176,4,7,CL-660 Grinding motor DE HE3_DE,G E,Decimal,6 CL G M DE GE,,3837,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+317,,High,Range,Threshold Limit,3.424551,4,4,02_HE3_DE,G E,Decimal,6 SGB G M DE GE,,1631,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,TRUE,Red
+308,,High,Range,Threshold Limit,0.296089,4,7,CL-660 Grinding spindle DE HE3_DE,G E,Decimal,6 CL G S DE GE,,3835,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+267,,High,Range,Threshold Limit,1.05574644,4,4,SGB_WH Motor DE, mm/s,Decimal,6 SGB WH M DE RMS,,1312,Vibration,0.1-1,1-1.8,>1.8,RANGE,RANGE,>,TRUE,Red
+220,,High,RANGE,Threshold Limit,46.91365,0.1-30,1,40-Bar Inlet Pressure,Bar,Decimal,5 SGB 40 B IN P,,2858,Health,40-50,50-60,<40,RANGE,RANGE,<,FALSE,Green
+225,,High,RANGE,Threshold Limit,1.09939027,0.1-30,1,SGB_WH Motor NDE,mm/s,Decimal,5 SGB WH M NDE RMS,,695,Vibration,0.1-1,1-1.8,>1.8,RANGE,RANGE,>,TRUE,Red
+312,,High,Range,Threshold Limit,1.03060842,4,7,CL-660 Power pack motor DE,mm/s,Decimal,6 CL B PP M DE RMS,,3832,Vibration,0.1-2,02-Mar,>3,RANGE,RANGE,>,TRUE,Red
+313,,High,Range,Threshold Limit,0.164823472,4,4,04_HE3_NDE,G E,Decimal,6 SGB WH M DE GE,,1640,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+235,,High,RANGE,Threshold Limit,0.247897312,0.1-30,2,SPC-IR Grinding spindle-RHS,mm/s,Decimal,5 IR RHS S DE RMS,,1865,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+318,,High,Range,Threshold Limit,0.107497908,4,7,CL-660 Power pack motor DE HE3_DE,G E,Decimal,6 CL B PP M DE GE,,3838,Vibration,0.01-1,01-Feb,>2,RANGE,RANGE,>,FALSE,Green
+263,,High,Range,Threshold Limit,1.39485133,4,4,SGB_GR Motor DE, mm/s,Decimal,6 SGB G M DE RMS,,1307,Vibration,0.1-2.5,2.6-4,>4,RANGE,RANGE,>,TRUE,Red
+305,,High,Range,Threshold Limit,0.5112448,4,7,CL-660 Reg motor DE,mm/s,Decimal,6 CL R M DE RMS,,3817,Vibration,0.1-2,02-Mar,>3,RANGE,RANGE,>,FALSE,Green
+295,,High,Range,Threshold Limit,4.57001066,4,6,LHS Grinding Motor,mm/s,Decimal,6 IR LHS G M DE RMS,,1882,Vibration,0.1-1.5,1.5-2.5,>2.5,RANGE,RANGE,>,TRUE,Red
+233,,High,RANGE,Threshold Limit,1.47054136,0.1-30,2,SPC-IR Grinding motor-LHS,mm/s,Decimal,5 IR LHS G M DE RMS ,,1866,Vibration,0.1-1.5,1.5-2.5,>2.5,RANGE,RANGE,>,FALSE,Yellow
+224,,High,RANGE,Threshold Limit,0.7035516,0.1-30,1,SGB_WH Motor DE,mm/s,Decimal,5 SGB WH M DE RMS,,696,Vibration,0.1-1,1-1.8,>1.8,RANGE,RANGE,>,FALSE,Green
+299,,High,Range,Threshold Limit,5.14913,4,6,RHS Grinding Motor,mm/s,Decimal,6 IR RHS G M DE RMS,,1880,Vibration,0.1-1.5,1.5-2.5,>2.5,RANGE,RANGE,>,TRUE,Red
+293,,High,Range,Threshold Limit,1.77487576,4,5,Power pack Motor,mm/s,Decimal,6 SPD PP M DE RMS,,1898,Vibration,0.1-2,02-Mar,>3,RANGE,RANGE,>,FALSE,Green
+285,,High,Range,Threshold Limit,0.154128239,4,5,LHS Pulley unit,mm/s,Decimal,6 SPD LHS P U DE RMS,,1896,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+287,,High,Range,Threshold Limit,0.4052,4,5,Grinding motor DE-RHS,mm/s,Decimal,6 SPD RHS G M DE RMS,,1895,Vibration,0.1-1,02-Mar,>3,RANGE,RANGE,>,TRUE,Red
+289,,High,Range,Threshold Limit,0.233384445,4,5,Grinding motor NDE-RHS,mm/s,Decimal,6 SPD RHS G M NDE RMS,,1894,Vibration,0.1-2,02-Mar,>3,RANGE,RANGE,>,FALSE,Green
+282,,High,Range,Threshold Limit,0.31605196,4,5,Grinding motor DE-LHS,mm/s,Decimal,6 SPD LHS G M DE RMS,,1893,Vibration,0.1-2,02-Mar,>3,RANGE,RANGE,>,FALSE,Green
+298,,High,Range,Threshold Limit,0.2557465,4,6,02_HE3_SPINDLE DE,G E,Decimal,6 IR LHS S DE GE,,2267,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+291,,High,Range,Threshold Limit,0.193120077,4,5,RHS Pulley unit,mm/s,Decimal,6 SPD RHS P U DE RMS,,1897,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+271,,High,Range,Threshold Limit,0.3697357,4,4,SGB_Dresser Arm_Housing, mm/s,Decimal,6 SGB D A DE RMS,,1310,Vibration,0.1-4,0.4-0.7,>0.7,RANGE,RANGE,>,TRUE,Red
+286,,High,Range,Threshold Limit,0.132511064,4,5,01_HE3_NDE,mm/s,Decimal,6 SPD LHS P U DE GE,,2330,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+217,,High,RANGE,Threshold Limit,0.512710869,0.1-30,1,70Bar Filter Status,Bar,Decimal,5 SGB 70 B F DP,,2855,Health,0.1-3,03-Apr,>4,RANGE,RANGE,>,TRUE,Red
+316,,High,Range,Threshold Limit,0.132511064,4,5,01_HE3_NDE,G E,Decimal,6 SPD LHS G M NDE GE,,2330,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+319,,High,Range,Threshold Limit,0.7761541,4,7,CL-660 Pulley Unit HE3_DE,G E,Decimal,6 CL P U GE,,3836,Vibration,0.01-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+219,,High,RANGE,Threshold Limit,58.9965363,0.1-30,1,Gr.Spindle Pressure,Bar,Decimal,5 SGB G S IN P,,2860,Health,55-80,80-90,<55,RANGE,RANGE,<,FALSE,Green
+241,,High,RANGE,Threshold Limit,0.434818685,0.1-30,3,SPC-OR Grinding Spindler-RHS,mm/s,Decimal,5 OR RHS S DE RMS ,,1869,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
+301,,High,Range,Threshold Limit,0.7981002,4,6,RHS Grinding Spindle,mm/s,Decimal,6 IR RHS S DE RMS,,1881,Vibration,0.1-1,1-1.5,>1.5,RANGE,RANGE,>,FALSE,Green
